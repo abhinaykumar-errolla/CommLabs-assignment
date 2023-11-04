@@ -1,1 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.container {
+    background-image: url('https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg');
+    background-size: cover;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+
+.content {
+    color: #ffffff;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.card-container {
+    background-color: #ffffff;
+}
+
+P {
+    color: #5b94f0;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+h1 {
+    color: #3f4261;
+    font-size: 25px;
+}
+
+.main-heading {
+    color: red;
+    font-size: 30px;
+}
+
+.live {
+    background-color: black;
+    color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.points {
+    color: #5b80f0;
+    font-size: 18px;
+    text-align: left;
+}
+
+#btn {
+    border-radius: 25px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+#btn1 {
+    border-radius: 25px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+#btn2 {
+    border-radius: 25px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px;
+}
+
+.blank-container {
+    background-color: #ffffff;
+}
+
+.title {
+    padding: 25px;
+}
+
+.black-container {
+    background-color: black;
+}
+
+.notes {
+    color: #ffffff;
+    text-align: left;
+}
+
+.transparent-container {
+    background-image: url('https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg');
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+}
+
+.footer-container {
+    background-color: black;
+}
+
+.Logo {
+    height: 30vh;
+    width: 30vw;
+}
